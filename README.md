@@ -25,6 +25,7 @@ reproducible clinical-epidemiology projects of my own.
 
 - **[Biopython](https://github.com/biopython/biopython)** — 2 PRs merged (#5202, #5205) cleaning up `__next__` docstrings across `Bio/SeqIO/`. A third PR (#5216) is in review. Listed in `CONTRIB.rst` and the 1.88 release notes.
 - **[Nipoppy](https://github.com/nipoppy/nipoppy)** — neuroimaging framework. PR #987 merged (fix for emphasize-lines drift in the HPC scheduler docs). Two PRs open: #995 (snapshot guardrail to prevent the same kind of drift recurring) and #1019 (warning for participant IDs that look like `sub-sub123` after BIDS prefix stripping).
+- **[nilearn](https://github.com/nilearn/nilearn)** — machine learning for neuroimaging. 2 PRs merged (#6259, #6262) adding `Examples` sections to the docstrings of GLM and utility functions.
 
 ## ☀️ Google Summer of Code 2026 — proposal prototypes
 
